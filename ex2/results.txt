@@ -1,0 +1,12 @@
+{'hidden_layer_sizes': (5,), 'learning_rate_init': 0.01}: mean_test_score=0.637, std_test_score=0.003
+{'hidden_layer_sizes': (5,), 'learning_rate_init': 0.001}: mean_test_score=0.643, std_test_score=0.001
+{'hidden_layer_sizes': (5,), 'learning_rate_init': 0.0001}: mean_test_score=0.627, std_test_score=0.000
+{'hidden_layer_sizes': (10,), 'learning_rate_init': 0.01}: mean_test_score=0.647, std_test_score=0.002
+{'hidden_layer_sizes': (10,), 'learning_rate_init': 0.001}: mean_test_score=0.652, std_test_score=0.001
+{'hidden_layer_sizes': (10,), 'learning_rate_init': 0.0001}: mean_test_score=0.650, std_test_score=0.001
+{'hidden_layer_sizes': (15,), 'learning_rate_init': 0.01}: mean_test_score=0.652, std_test_score=0.001
+{'hidden_layer_sizes': (15,), 'learning_rate_init': 0.001}: mean_test_score=0.656, std_test_score=0.000
+{'hidden_layer_sizes': (15,), 'learning_rate_init': 0.0001}: mean_test_score=0.655, std_test_score=0.001
+{'hidden_layer_sizes': (20,), 'learning_rate_init': 0.01}: mean_test_score=0.654, std_test_score=0.001
+{'hidden_layer_sizes': (20,), 'learning_rate_init': 0.001}: mean_test_score=0.659, std_test_score=0.001
+{'hidden_layer_sizes': (20,), 'learning_rate_init': 0.0001}: mean_test_score=0.657, std_test_score=0.001

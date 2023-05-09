@@ -1,0 +1,11 @@
+
+Best performing combination:
+{'hidden_layer_sizes': (20,), 'learning_rate_init': 0.001}
+
+Performance metrics on test set:
+Class	Accuracy	Precision	Recall
+0	0.697	0.720	0.708
+1	0.607	0.483	0.538
+2	0.643	0.700	0.670
+
+Overall accuracy: 0.658
